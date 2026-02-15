@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Program
+class DiceRoller
 {
     static void Main()
     {
