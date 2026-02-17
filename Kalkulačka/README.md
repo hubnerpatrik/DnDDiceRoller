@@ -1,4 +1,4 @@
-Jak to spustit 
+Jak to spustit
 Způsob 1: Visual Studio 
 
 Otevři Visual Studio
